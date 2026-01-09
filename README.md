@@ -18,15 +18,12 @@ It allows users to click on image thumbnails and view a full-size preview in a l
 - JavaScript (ES6)
 
 ## Project Structure
-```
-lightbox-viewer-app/
-- index.html
-- styles.css
-- script.js
-- LICENSE
-- README.md
+- html
+- css
+- javaScript
+- README.me
 - .gitignore
-
+- LICENSE
 
 ## How It Works
 - Thumbnails are displayed in a gallery layout
@@ -55,5 +52,5 @@ This project helps in understanding:
 ## License
 This project is licensed under the MIT License.
 
-live demo: [Lightbox Viewer App]
+## live demo: [Lightbox Viewer App]
 (https://rustom-yadav.github.io/lightbox-viewer-app/)
