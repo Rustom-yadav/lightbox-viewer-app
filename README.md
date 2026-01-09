@@ -56,4 +56,4 @@ This project helps in understanding:
 This project is licensed under the MIT License.
 
 live demo: [Lightbox Viewer App]
-(link to live demo if available)
+(https://rustom-yadav.github.io/lightbox-viewer-app/)
